@@ -1,0 +1,43 @@
+.overlay-div {
+    /* height:100%;
+    width: 100%;
+    position:absolute; */
+    background-color: #000;
+    opacity: .9;
+}
+
+.background-dark {
+    background-color: #0F1B31;
+}
+
+.border-color {
+    border: 15px solid #EA863C;
+    ;
+}
+
+.text-color {
+    font-style: bold;
+    color: #B19083;
+}
+
+.card-backGround {
+    background-color: #222022;
+}
+
+.circle-div {
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    border: 15px solid #EA863C;
+    margin-right: 20px;
+}
+
+.div {
+    height: 0px;
+    width: 200px;
+}
+
+.div-p {
+    height: 0px;
+    width: 600px;
+}
